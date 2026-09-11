@@ -1,0 +1,321 @@
+Order_ID,Product,Category,Region,Customer,Sales,Quantity,Profit,Date
+AR-56596212-77,Meta Quest 3,Devices,Sweden,Arjun Mehta,2295.4,5,475.04,2025-07-10
+AR-53938456-44,MacBook Air M3,Computers,Germany,Lily Thompson,6495,5,898.28,2025-07-15
+AR-19500966-35,Oura Ring 4,Wearables,United States,Emma Clark,1101.24,3,238.72,2025-05-22
+AR-65624872-12,Dell XPS 13,Computers,United States,Arjun Mehta,5179.68,4,686.46,2025-04-26
+AR-86602969-74,Galaxy Buds3 Pro,Audio,Germany,Lucas Young,796,4,184.6,2025-06-16
+AR-37826879-59,Galaxy Buds3 Pro,Audio,United Kingdom,Lucas Young,409.94,2,89.38,2025-04-28
+AR-10933470-68,MacBook Air M3,Computers,Turkey,Arjun Mehta,4780.32,4,1018.34,2025-07-27
+AR-59535941-64,iPhone 15 Pro Max,Devices,Spain,Lucas Young,6995,5,1819.96,2025-08-05
+AR-70639773-24,Meta Quest 3,Devices,India,Ethan Walker,918.16,2,114.22,2025-07-06
+AR-49341299-31,Apple Vision Pro,Devices,Turkey,Noah Martin,6998,2,1177.28,2025-07-13
+AR-38079162-49,Apple Vision Pro,Devices,India,Mia Wilson,11336.76,3,2835.72,2025-04-20
+AR-98107239-12,iPhone 15 Pro Max,Devices,United Kingdom,Mia Wilson,5148.32,4,1028.03,2025-07-25
+AR-48364875-69,Apple Vision Pro,Devices,Germany,Lily Thompson,3219.08,1,455.45,2025-07-20
+AR-19123602-64,AirPods Pro,Audio,India,Sophia Brown,1145,5,308.45,2025-09-23
+AR-95499830-15,MacBook Air M3,Computers,Spain,Emma Clark,1299,1,292.97,2025-06-14
+AR-52605615-17,Apple Watch Series 10,Wearables,United States,Amelia Davis,1287,3,200.52,2025-08-09
+AR-77499438-27,AirPods Pro,Audio,Sweden,Emma Clark,222.13,1,37.75,2025-07-29
+AR-96030465-97,Apple Vision Pro,Devices,Spain,Amelia Davis,18894.6,5,4596.23,2025-06-18
+AR-40016130-29,Logitech MX Keys,Accessories,United States,Noah Martin,545,5,141.93,2025-04-16
+AR-72659869-99,iPhone 15 Pro Max,Devices,Turkey,Sophia Brown,7204.85,5,1928.36,2025-06-06
+AR-22697656-91,Oura Ring 4,Wearables,India,Sophia Brown,1197,3,181.71,2025-06-24
+AR-22572498-50,Logitech MX Keys,Accessories,Turkey,Caleb Turner,436,4,98.08,2025-07-02
+AR-45166462-45,Dell XPS 13,Computers,United States,Isabella Garcia,6474.6,5,1181.02,2025-06-15
+AR-84419827-23,Galaxy Buds3 Pro,Audio,India,Arjun Mehta,193.03,1,28.6,2025-09-17
+AR-28799074-88,Logitech MX Keys,Accessories,Sweden,Isabella Garcia,100.28,1,22.05,2025-04-12
+AR-43526690-47,Logitech MX Keys,Accessories,United States,Arjun Mehta,501.4,5,83.79,2025-05-08
+AR-83449343-61,Dell XPS 13,Computers,Spain,Isabella Garcia,2206.16,2,525.32,2025-06-19
+AR-56496240-68,Oura Ring 4,Wearables,Spain,Isabella Garcia,430.92,1,69.36,2025-05-06
+AR-68810502-25,Logitech MX Keys,Accessories,United Kingdom,Arjun Mehta,436,4,56.74,2025-10-21
+AR-75617023-54,iPhone 15 Pro Max,Devices,Turkey,Liam Smith,5428.12,4,1008.1,2025-06-11
+AR-51525945-81,Logitech MX Keys,Accessories,United Kingdom,Lily Thompson,401.12,4,87.43,2025-09-17
+AR-40878616-29,Galaxy Buds3 Pro,Audio,Turkey,Lucas Young,859.68,4,123.08,2025-08-15
+AR-68895709-85,Apple Watch Series 10,Wearables,United States,Arjun Mehta,1578.72,4,264.37,2025-07-12
+AR-31979969-76,Meta Quest 3,Devices,Turkey,Amelia Davis,918.16,2,152.55,2025-08-03
+AR-67315490-12,Dell XPS 13,Computers,Sweden,Arjun Mehta,4412.32,4,634.14,2025-05-15
+AR-19472546-79,Dell XPS 13,Computers,Sweden,Liam Smith,5995,5,973.19,2025-05-17
+AR-81691272-68,iPhone 15 Pro Max,Devices,United States,Liam Smith,1287.08,1,300.45,2025-04-23
+AR-55187018-45,iPhone 15 Pro Max,Devices,United Kingdom,Lily Thompson,6043.68,4,1230.49,2025-07-05
+AR-25609447-91,Apple Watch Series 10,Wearables,Sweden,Noah Martin,394.68,1,71.71,2025-05-17
+AR-82438959-91,Oura Ring 4,Wearables,Germany,Arjun Mehta,1292.76,3,293.09,2025-04-28
+AR-87150950-59,AirPods Pro,Audio,Sweden,Liam Smith,235.87,1,35.17,2025-10-11
+AR-75149299-39,AirPods Pro,Audio,India,Arjun Mehta,1145,5,295.39,2025-04-07
+AR-81758314-18,MacBook Air M3,Computers,Germany,Isabella Garcia,2520.06,2,574.62,2025-05-14
+AR-77857045-63,Apple Vision Pro,Devices,United Kingdom,Emma Clark,3394.03,1,780.5,2025-08-14
+AR-35401149-50,iPhone 15 Pro Max,Devices,Spain,Lucas Young,7204.85,5,1400.11,2025-09-03
+AR-45285768-49,Apple Watch Series 10,Wearables,Germany,Ethan Walker,789.36,2,206.22,2025-04-11
+AR-81989001-18,Galaxy Buds3 Pro,Audio,India,Sophia Brown,772.12,4,182.98,2025-09-26
+AR-97302260-96,Galaxy Buds3 Pro,Audio,Turkey,Arjun Mehta,915.4,5,243.96,2025-09-06
+AR-70446461-59,Apple Vision Pro,Devices,Germany,Arjun Mehta,18894.6,5,4074.62,2025-10-17
+AR-81988694-60,Oura Ring 4,Wearables,United Kingdom,Liam Smith,399,1,56.86,2025-08-18
+AR-22818282-20,Galaxy Buds3 Pro,Audio,Germany,Caleb Turner,965.15,5,154.71,2025-10-18
+AR-79175693-85,MacBook Air M3,Computers,Turkey,Liam Smith,5196,4,949.76,2025-04-28
+AR-31329147-52,MacBook Air M3,Computers,Turkey,Noah Martin,5975.4,5,1668.44,2025-08-02
+AR-51046526-76,MacBook Air M3,Computers,Turkey,Mia Wilson,3780.09,3,965.45,2025-06-24
+AR-12637799-39,Apple Vision Pro,Devices,Spain,Ethan Walker,17495,5,4906.31,2025-09-19
+AR-27741162-95,AirPods Pro,Audio,Spain,Liam Smith,666.39,3,192.48,2025-04-04
+AR-74766649-91,Apple Vision Pro,Devices,Sweden,Emma Clark,3499,1,731.84,2025-06-27
+AR-19217944-18,Galaxy Buds3 Pro,Audio,Germany,Arjun Mehta,796,4,160.67,2025-10-11
+AR-58249206-44,Oura Ring 4,Wearables,Spain,Mia Wilson,1161.09,3,178.05,2025-05-09
+AR-77343457-14,Dell XPS 13,Computers,Turkey,Noah Martin,3489.09,3,613.27,2025-08-27
+AR-53218577-73,Apple Vision Pro,Devices,United States,Emma Clark,18894.6,5,2535.47,2025-04-21
+AR-27898990-80,MacBook Air M3,Computers,Spain,Mia Wilson,6689.85,5,1766.16,2025-07-03
+AR-84263034-99,Dell XPS 13,Computers,Germany,Emma Clark,3884.76,3,1099.31,2025-05-16
+AR-72155888-84,AirPods Pro,Audio,United Kingdom,Caleb Turner,989.28,4,123.36,2025-10-13
+AR-27273144-50,Apple Vision Pro,Devices,Germany,Emma Clark,17495,5,2118.59,2025-07-20
+AR-14470362-45,MacBook Air M3,Computers,Sweden,Amelia Davis,2675.94,2,373.42,2025-07-23
+AR-98401647-27,Apple Watch Series 10,Wearables,Spain,Lily Thompson,1389.96,3,374.91,2025-06-06
+AR-66156479-48,Oura Ring 4,Wearables,Germany,Amelia Davis,2054.85,5,374.62,2025-04-03
+AR-76962544-47,Dell XPS 13,Computers,United States,Emma Clark,2398,2,475.03,2025-06-27
+AR-42843337-68,AirPods Pro,Audio,Turkey,Ethan Walker,632.04,3,114.47,2025-04-18
+AR-67755055-61,Apple Watch Series 10,Wearables,India,Ethan Walker,789.36,2,130.01,2025-10-18
+AR-55696067-24,Galaxy Buds3 Pro,Audio,United Kingdom,Caleb Turner,965.15,5,239.96,2025-04-29
+AR-81360359-73,Logitech MX Keys,Accessories,Sweden,Caleb Turner,235.44,2,34.0,2025-07-09
+AR-11970475-78,AirPods Pro,Audio,Germany,Lily Thompson,458,2,91.7,2025-09-14
+AR-65544172-76,Apple Watch Series 10,Wearables,United States,Emma Clark,858,2,248.26,2025-10-14
+AR-83597011-78,iPhone 15 Pro Max,Devices,Sweden,Ethan Walker,6435.4,5,1378.85,2025-06-20
+AR-35983731-95,Apple Watch Series 10,Wearables,United Kingdom,Mia Wilson,1248.39,3,344.91,2025-06-01
+AR-74100006-66,Logitech MX Keys,Accessories,United States,Noah Martin,422.92,4,122.53,2025-09-07
+AR-40378001-67,Dell XPS 13,Computers,United States,Sophia Brown,5179.68,4,1492.0,2025-09-06
+AR-80567730-29,Meta Quest 3,Devices,India,Caleb Turner,1936.12,4,448.33,2025-10-02
+AR-74788907-86,Oura Ring 4,Wearables,Germany,Caleb Turner,1101.24,3,214.44,2025-05-18
+AR-69912614-73,Dell XPS 13,Computers,Germany,Emma Clark,2398,2,337.98,2025-05-29
+AR-28823266-77,Logitech MX Keys,Accessories,India,Lily Thompson,436,4,78.87,2025-08-23
+AR-32273029-83,Apple Watch Series 10,Wearables,United Kingdom,Lily Thompson,1664.52,4,335.97,2025-04-06
+AR-21641602-94,Galaxy Buds3 Pro,Audio,Germany,Liam Smith,796,4,96.24,2025-05-18
+AR-58873698-74,Oura Ring 4,Wearables,Germany,Lily Thompson,821.94,2,166.48,2025-07-12
+AR-13147757-96,Apple Vision Pro,Devices,Turkey,Amelia Davis,6998,2,949.86,2025-09-28
+AR-50558005-27,Oura Ring 4,Wearables,United States,Amelia Davis,367.08,1,96.19,2025-10-08
+AR-83978022-73,AirPods Pro,Audio,Sweden,Emma Clark,741.96,3,103.18,2025-04-30
+AR-12760720-11,Logitech MX Keys,Accessories,Spain,Amelia Davis,112.27,1,22.7,2025-08-04
+AR-94663457-48,iPhone 15 Pro Max,Devices,Turkey,Ethan Walker,3021.84,2,761.61,2025-08-31
+AR-37598203-79,Dell XPS 13,Computers,Spain,Lucas Young,1103.08,1,270.55,2025-04-04
+AR-83779813-47,Apple Vision Pro,Devices,Sweden,Amelia Davis,10497,3,2957.37,2025-09-17
+AR-28999155-20,AirPods Pro,Audio,United Kingdom,Arjun Mehta,229,1,45.53,2025-07-20
+AR-59130209-10,Galaxy Buds3 Pro,Audio,Turkey,Mia Wilson,398,2,79.58,2025-09-05
+AR-53965894-29,Apple Watch Series 10,Wearables,Spain,Amelia Davis,883.74,2,151.31,2025-05-01
+AR-62621759-73,Dell XPS 13,Computers,Sweden,Noah Martin,2326.06,2,628.3,2025-05-21
+AR-78961589-99,Apple Vision Pro,Devices,United Kingdom,Sophia Brown,11336.76,3,2070.69,2025-05-30
+AR-53430297-92,Galaxy Buds3 Pro,Audio,Sweden,Caleb Turner,429.84,2,68.09,2025-05-15
+AR-24634466-92,Galaxy Buds3 Pro,Audio,Germany,Amelia Davis,995,5,151.89,2025-08-29
+AR-41094473-22,MacBook Air M3,Computers,Spain,Isabella Garcia,3897,3,1065.48,2025-05-14
+AR-88739520-36,AirPods Pro,Audio,Germany,Arjun Mehta,1145,5,276.77,2025-07-21
+AR-53502023-78,Oura Ring 4,Wearables,Spain,Emma Clark,410.97,1,52.19,2025-09-14
+AR-27876405-54,Oura Ring 4,Wearables,United States,Ethan Walker,1197,3,187.91,2025-05-13
+AR-95086712-26,Dell XPS 13,Computers,Spain,Sophia Brown,2589.84,2,655.59,2025-10-14
+AR-90311021-27,Apple Vision Pro,Devices,Germany,Mia Wilson,15115.68,4,4131.8,2025-09-21
+AR-90386866-44,Galaxy Buds3 Pro,Audio,Spain,Arjun Mehta,549.24,3,91.5,2025-10-23
+AR-82588790-68,iPhone 15 Pro Max,Devices,Spain,Caleb Turner,1287.08,1,197.24,2025-08-17
+AR-33541830-44,Galaxy Buds3 Pro,Audio,Turkey,Arjun Mehta,386.06,2,69.25,2025-05-05
+AR-18873018-12,iPhone 15 Pro Max,Devices,Turkey,Noah Martin,4322.91,3,571.63,2025-10-04
+AR-70102158-32,Apple Watch Series 10,Wearables,Turkey,Emma Clark,858,2,238.01,2025-05-16
+AR-82098497-36,MacBook Air M3,Computers,Germany,Mia Wilson,6495,5,1552.99,2025-06-30
+AR-39201375-27,Dell XPS 13,Computers,Sweden,Noah Martin,2326.06,2,637.13,2025-09-14
+AR-47602015-21,Meta Quest 3,Devices,India,Lucas Young,1541.91,3,366.83,2025-07-31
+AR-80022747-39,Apple Vision Pro,Devices,Spain,Mia Wilson,14415.88,4,2583.29,2025-10-22
+AR-77800172-77,Logitech MX Keys,Accessories,India,Emma Clark,528.65,5,143.84,2025-05-27
+AR-33885285-37,Galaxy Buds3 Pro,Audio,Sweden,Sophia Brown,386.06,2,108.42,2025-05-17
+AR-20576824-77,MacBook Air M3,Computers,Sweden,Noah Martin,3780.09,3,683.68,2025-06-17
+AR-44630404-37,Dell XPS 13,Computers,United States,Mia Wilson,2326.06,2,565.17,2025-08-09
+AR-81044142-87,AirPods Pro,Audio,Turkey,Sophia Brown,471.74,2,76.23,2025-09-22
+AR-63370349-48,Meta Quest 3,Devices,United States,Lucas Young,459.08,1,93.04,2025-06-13
+AR-65551537-65,Apple Vision Pro,Devices,Sweden,Sophia Brown,12876.32,4,3453.68,2025-10-09
+AR-48250051-29,Logitech MX Keys,Accessories,Sweden,Isabella Garcia,336.81,3,47.18,2025-08-01
+AR-22636560-68,Oura Ring 4,Wearables,United Kingdom,Sophia Brown,1197,3,227.06,2025-07-24
+AR-43944010-37,MacBook Air M3,Computers,Turkey,Lily Thompson,1337.97,1,351.6,2025-08-14
+AR-19046444-18,Meta Quest 3,Devices,Sweden,Arjun Mehta,2155.68,4,426.22,2025-07-06
+AR-55406545-48,MacBook Air M3,Computers,Turkey,Ethan Walker,4780.32,4,1303.61,2025-04-19
+AR-37272890-34,AirPods Pro,Audio,United States,Amelia Davis,666.39,3,145.63,2025-07-26
+AR-70239109-47,MacBook Air M3,Computers,Spain,Amelia Davis,3780.09,3,604.16,2025-08-04
+AR-92585113-79,Galaxy Buds3 Pro,Audio,Turkey,Emma Clark,965.15,5,279.48,2025-07-25
+AR-93585765-85,Oura Ring 4,Wearables,Sweden,Noah Martin,1995,5,279.51,2025-06-27
+AR-92992821-63,Galaxy Buds3 Pro,Audio,United States,Emma Clark,772.12,4,109.68,2025-04-02
+AR-83416298-12,Meta Quest 3,Devices,Sweden,Lily Thompson,2495,5,303.84,2025-08-09
+AR-28523671-48,Meta Quest 3,Devices,Turkey,Noah Martin,1497,3,297.45,2025-07-04
+AR-54076908-26,Apple Watch Series 10,Wearables,India,Noah Martin,1389.96,3,330.31,2025-06-20
+AR-12191201-56,iPhone 15 Pro Max,Devices,Spain,Ethan Walker,4322.91,3,736.24,2025-05-27
+AR-10224013-63,Meta Quest 3,Devices,Turkey,Caleb Turner,1996,4,257.5,2025-06-13
+AR-45612200-50,MacBook Air M3,Computers,Germany,Arjun Mehta,2598,2,574.54,2025-06-01
+AR-74946233-73,MacBook Air M3,Computers,United States,Noah Martin,1337.97,1,294.96,2025-04-01
+AR-17679148-55,Apple Watch Series 10,Wearables,United States,Mia Wilson,394.68,1,69.96,2025-09-19
+AR-36759267-80,Apple Watch Series 10,Wearables,Germany,Ethan Walker,883.74,2,168.43,2025-09-29
+AR-90908184-37,MacBook Air M3,Computers,United Kingdom,Isabella Garcia,3897,3,934.94,2025-10-03
+AR-31956119-62,Galaxy Buds3 Pro,Audio,India,Emma Clark,199,1,39.52,2025-06-02
+AR-30252583-31,AirPods Pro,Audio,Germany,Isabella Garcia,1145,5,230.83,2025-07-26
+AR-96417839-64,Apple Vision Pro,Devices,Germany,Caleb Turner,10811.91,3,3130.6,2025-05-13
+AR-53418399-77,MacBook Air M3,Computers,Turkey,Amelia Davis,2675.94,2,411.61,2025-10-14
+AR-69048378-95,Galaxy Buds3 Pro,Audio,Spain,Caleb Turner,644.76,3,138.25,2025-05-27
+AR-25889467-88,Galaxy Buds3 Pro,Audio,Spain,Lily Thompson,995,5,123.85,2025-07-20
+AR-28727303-79,iPhone 15 Pro Max,Devices,United States,Noah Martin,2798,2,774.23,2025-09-12
+AR-80618423-69,Oura Ring 4,Wearables,India,Lucas Young,367.08,1,73.4,2025-08-07
+AR-46761986-55,Galaxy Buds3 Pro,Audio,Germany,Sophia Brown,915.4,5,185.1,2025-05-24
+AR-88376258-46,Oura Ring 4,Wearables,United States,Mia Wilson,1995,5,494.9,2025-10-17
+AR-48003066-23,AirPods Pro,Audio,Turkey,Sophia Brown,632.04,3,130.85,2025-06-12
+AR-44423478-48,Dell XPS 13,Computers,India,Arjun Mehta,2469.94,2,426.79,2025-10-26
+AR-83297002-10,Galaxy Buds3 Pro,Audio,United Kingdom,Arjun Mehta,772.12,4,100.85,2025-05-02
+AR-39181629-26,MacBook Air M3,Computers,Spain,Liam Smith,3585.24,3,701.17,2025-08-02
+AR-27601140-92,Oura Ring 4,Wearables,Spain,Caleb Turner,1995,5,576.69,2025-05-06
+AR-72528197-44,Galaxy Buds3 Pro,Audio,Sweden,Isabella Garcia,183.08,1,25.37,2025-08-07
+AR-45266651-63,Oura Ring 4,Wearables,Spain,Arjun Mehta,1723.68,4,361.83,2025-07-15
+AR-80392921-73,MacBook Air M3,Computers,United Kingdom,Noah Martin,5196,4,683.28,2025-09-15
+AR-67684579-73,iPhone 15 Pro Max,Devices,India,Isabella Garcia,5763.88,4,1263.29,2025-07-11
+AR-87490712-74,Logitech MX Keys,Accessories,Spain,Lucas Young,112.27,1,20.14,2025-10-09
+AR-31219497-28,Oura Ring 4,Wearables,United Kingdom,Lily Thompson,410.97,1,81.73,2025-06-05
+AR-83553847-46,Apple Watch Series 10,Wearables,Germany,Lucas Young,2145,5,608.32,2025-08-01
+AR-49145963-91,AirPods Pro,Audio,Germany,Isabella Garcia,229,1,58.76,2025-08-06
+AR-94560152-65,AirPods Pro,Audio,Spain,Mia Wilson,471.74,2,81.15,2025-09-11
+AR-87542712-93,Galaxy Buds3 Pro,Audio,Spain,Amelia Davis,366.16,2,44.06,2025-09-24
+AR-33338350-24,Dell XPS 13,Computers,India,Mia Wilson,2589.84,2,418.01,2025-09-30
+AR-67238885-97,AirPods Pro,Audio,India,Lucas Young,458,2,56.16,2025-07-20
+AR-89168301-77,Apple Watch Series 10,Wearables,Germany,Ethan Walker,858,2,183.27,2025-06-02
+AR-16032020-49,Logitech MX Keys,Accessories,Sweden,Arjun Mehta,112.27,1,30.99,2025-05-23
+AR-70299290-94,Apple Watch Series 10,Wearables,Germany,Mia Wilson,2316.6,5,361.14,2025-07-16
+AR-73936467-64,MacBook Air M3,Computers,India,Caleb Turner,2598,2,743.51,2025-10-05
+AR-21670291-16,AirPods Pro,Audio,United Kingdom,Liam Smith,943.48,4,213.0,2025-05-12
+AR-67809176-57,Apple Watch Series 10,Wearables,Sweden,Liam Smith,2209.35,5,386.3,2025-10-15
+AR-86795987-40,Dell XPS 13,Computers,United Kingdom,Liam Smith,2398,2,462.66,2025-10-10
+AR-25753719-47,Meta Quest 3,Devices,Spain,Arjun Mehta,998,2,231.56,2025-04-05
+AR-20325085-38,AirPods Pro,Audio,Spain,Mia Wilson,632.04,3,180.18,2025-08-26
+AR-59461741-84,Apple Vision Pro,Devices,Sweden,Amelia Davis,3778.92,1,595.08,2025-04-05
+AR-87047816-11,Meta Quest 3,Devices,Germany,Liam Smith,998,2,243.57,2025-04-24
+AR-74530716-51,Apple Vision Pro,Devices,Germany,Lucas Young,6998,2,1753.29,2025-07-10
+AR-13573053-52,Logitech MX Keys,Accessories,Sweden,Arjun Mehta,117.72,1,32.27,2025-07-25
+AR-70254084-49,Apple Watch Series 10,Wearables,United States,Ethan Walker,858,2,213.08,2025-05-28
+AR-89671694-14,Oura Ring 4,Wearables,Spain,Sophia Brown,821.94,2,191.85,2025-08-29
+AR-78616192-28,iPhone 15 Pro Max,Devices,Turkey,Arjun Mehta,5428.12,4,990.2,2025-09-17
+AR-73668809-48,Galaxy Buds3 Pro,Audio,Turkey,Emma Clark,398,2,109.33,2025-07-22
+AR-69204938-69,Galaxy Buds3 Pro,Audio,India,Amelia Davis,796,4,150.9,2025-09-28
+AR-64184012-80,AirPods Pro,Audio,United States,Ethan Walker,247.32,1,40.67,2025-04-20
+AR-44412363-54,Apple Watch Series 10,Wearables,Turkey,Liam Smith,832.26,2,105.13,2025-05-26
+AR-61030283-60,Apple Vision Pro,Devices,United States,Lucas Young,13996,4,2737.29,2025-07-05
+AR-21916268-34,Logitech MX Keys,Accessories,Sweden,Lucas Young,422.92,4,52.68,2025-08-23
+AR-97138978-66,Apple Watch Series 10,Wearables,Germany,Sophia Brown,463.32,1,116.77,2025-06-06
+AR-78195063-51,iPhone 15 Pro Max,Devices,India,Mia Wilson,1399,1,180.5,2025-04-18
+AR-70408153-21,Meta Quest 3,Devices,India,Lily Thompson,1836.32,4,319.82,2025-07-26
+AR-22659959-47,Dell XPS 13,Computers,India,Noah Martin,4652.12,4,659.2,2025-09-29
+AR-75400512-72,iPhone 15 Pro Max,Devices,Turkey,Lily Thompson,5428.12,4,1112.24,2025-08-31
+AR-96966040-88,AirPods Pro,Audio,Germany,Arjun Mehta,471.74,2,78.61,2025-05-09
+AR-75070713-92,AirPods Pro,Audio,United Kingdom,Amelia Davis,842.72,4,119.18,2025-10-25
+AR-82907844-24,MacBook Air M3,Computers,Germany,Sophia Brown,2390.16,2,639.01,2025-08-02
+AR-42085436-42,Apple Vision Pro,Devices,India,Lucas Young,3603.97,1,967.91,2025-09-22
+AR-83304174-94,iPhone 15 Pro Max,Devices,United States,Sophia Brown,4197,3,609.67,2025-10-26
+AR-70251726-69,AirPods Pro,Audio,Sweden,Liam Smith,458,2,122.0,2025-05-19
+AR-71050333-98,AirPods Pro,Audio,Spain,Liam Smith,229,1,32.69,2025-07-11
+AR-71572718-25,AirPods Pro,Audio,Sweden,Liam Smith,1179.35,5,283.33,2025-07-29
+AR-89363082-28,Apple Watch Series 10,Wearables,United States,Emma Clark,441.87,1,121.7,2025-10-02
+AR-20488514-63,Dell XPS 13,Computers,Turkey,Lucas Young,1294.92,1,275.22,2025-08-11
+AR-13231338-19,Logitech MX Keys,Accessories,Germany,Lily Thompson,117.72,1,17.38,2025-04-27
+AR-87579082-47,Logitech MX Keys,Accessories,Turkey,Ethan Walker,100.28,1,27.06,2025-05-04
+AR-67911473-54,AirPods Pro,Audio,United Kingdom,Emma Clark,444.26,2,73.32,2025-09-16
+AR-31649651-21,Meta Quest 3,Devices,United Kingdom,Isabella Garcia,1027.94,2,215.9,2025-05-17
+AR-87483998-41,MacBook Air M3,Computers,Sweden,Arjun Mehta,4780.32,4,1324.68,2025-07-02
+AR-16139867-84,Galaxy Buds3 Pro,Audio,Spain,Emma Clark,772.12,4,174.96,2025-07-27
+AR-65712257-48,MacBook Air M3,Computers,Spain,Ethan Walker,6300.15,5,1548.38,2025-07-04
+AR-76918136-87,Meta Quest 3,Devices,United Kingdom,Sophia Brown,918.16,2,172.61,2025-09-07
+AR-64633085-43,Logitech MX Keys,Accessories,Germany,Emma Clark,561.35,5,116.02,2025-07-28
+AR-92256049-29,Galaxy Buds3 Pro,Audio,United States,Isabella Garcia,386.06,2,76.68,2025-09-04
+AR-68043852-22,iPhone 15 Pro Max,Devices,Sweden,Liam Smith,2714.06,2,677.12,2025-09-18
+AR-49919121-66,Logitech MX Keys,Accessories,Turkey,Lucas Young,327,3,52.0,2025-10-28
+AR-57729035-43,Logitech MX Keys,Accessories,Germany,Ethan Walker,100.28,1,21.52,2025-10-11
+AR-47592864-20,iPhone 15 Pro Max,Devices,United Kingdom,Ethan Walker,2574.16,2,568.51,2025-10-05
+AR-68814405-52,Logitech MX Keys,Accessories,United States,Arjun Mehta,235.44,2,56.52,2025-06-03
+AR-50235441-17,Apple Vision Pro,Devices,United Kingdom,Caleb Turner,6998,2,1031.28,2025-10-20
+AR-92331748-65,Galaxy Buds3 Pro,Audio,Turkey,Noah Martin,183.08,1,49.77,2025-06-12
+AR-87340493-43,Dell XPS 13,Computers,Spain,Arjun Mehta,1199,1,235.97,2025-10-23
+AR-97642171-73,Apple Vision Pro,Devices,United States,Amelia Davis,6788.06,2,1098.06,2025-08-27
+AR-73731596-44,iPhone 15 Pro Max,Devices,United Kingdom,Caleb Turner,1440.97,1,228.61,2025-10-15
+AR-78177030-38,Logitech MX Keys,Accessories,Germany,Sophia Brown,112.27,1,27.09,2025-07-04
+AR-88268193-23,AirPods Pro,Audio,Turkey,Caleb Turner,458,2,68.47,2025-09-02
+AR-72039900-29,Dell XPS 13,Computers,Turkey,Emma Clark,2398,2,534.8,2025-09-30
+AR-26005042-60,MacBook Air M3,Computers,Germany,Lucas Young,2675.94,2,756.22,2025-10-07
+AR-98118421-57,AirPods Pro,Audio,United States,Amelia Davis,666.39,3,189.8,2025-09-30
+AR-97709421-93,MacBook Air M3,Computers,United Kingdom,Mia Wilson,2598,2,672.11,2025-06-24
+AR-91785571-44,Galaxy Buds3 Pro,Audio,United Kingdom,Arjun Mehta,597,3,170.57,2025-06-03
+AR-72455291-87,AirPods Pro,Audio,Sweden,Sophia Brown,943.48,4,219.23,2025-05-09
+AR-33025401-81,AirPods Pro,Audio,Turkey,Noah Martin,632.04,3,87.88,2025-09-06
+AR-68240252-41,MacBook Air M3,Computers,Germany,Liam Smith,4208.76,3,722.36,2025-09-21
+AR-87451799-18,iPhone 15 Pro Max,Devices,United States,Ethan Walker,1440.97,1,280.02,2025-09-16
+AR-88214397-28,MacBook Air M3,Computers,Spain,Arjun Mehta,2598,2,743.46,2025-09-13
+AR-71352015-95,Logitech MX Keys,Accessories,Spain,Caleb Turner,436,4,115.88,2025-06-26
+AR-36958456-49,MacBook Air M3,Computers,Germany,Amelia Davis,6495,5,1059.02,2025-05-08
+AR-83125196-31,Meta Quest 3,Devices,United Kingdom,Isabella Garcia,968.06,2,164.48,2025-06-21
+AR-91775534-33,iPhone 15 Pro Max,Devices,Sweden,Lucas Young,7204.85,5,1989.8,2025-09-22
+AR-26694917-71,MacBook Air M3,Computers,India,Isabella Garcia,2675.94,2,349.35,2025-04-28
+AR-36402577-25,Oura Ring 4,Wearables,Germany,Isabella Garcia,399,1,84.58,2025-04-17
+AR-45054703-67,Apple Vision Pro,Devices,Germany,Emma Clark,6788.06,2,1948.55,2025-06-04
+AR-34954294-57,Apple Vision Pro,Devices,Germany,Lucas Young,11336.76,3,3241.1,2025-04-13
+AR-25549347-92,AirPods Pro,Audio,United Kingdom,Amelia Davis,229,1,44.06,2025-08-09
+AR-56829718-96,Oura Ring 4,Wearables,Sweden,Caleb Turner,399,1,108.02,2025-08-18
+AR-41970130-26,Galaxy Buds3 Pro,Audio,Spain,Caleb Turner,409.94,2,101.95,2025-05-04
+AR-73273158-84,Apple Vision Pro,Devices,Sweden,Ethan Walker,6788.06,2,1203.62,2025-05-11
+AR-89770714-75,Dell XPS 13,Computers,Germany,Amelia Davis,3597,3,525.19,2025-07-21
+AR-57761792-25,Apple Watch Series 10,Wearables,Germany,Noah Martin,2145,5,437.91,2025-04-16
+AR-66720595-20,Apple Vision Pro,Devices,United Kingdom,Mia Wilson,14415.88,4,2088.18,2025-04-27
+AR-80292519-12,Apple Watch Series 10,Wearables,Germany,Lucas Young,1287,3,255.79,2025-05-23
+AR-94255203-85,Logitech MX Keys,Accessories,Turkey,Arjun Mehta,545,5,76.56,2025-08-20
+AR-62263966-98,Galaxy Buds3 Pro,Audio,India,Lily Thompson,199,1,36.54,2025-06-28
+AR-32955353-27,Apple Watch Series 10,Wearables,United Kingdom,Lucas Young,789.36,2,138.53,2025-07-30
+AR-31115474-18,Apple Watch Series 10,Wearables,Germany,Caleb Turner,858,2,149.97,2025-06-12
+AR-22526940-81,Galaxy Buds3 Pro,Audio,Spain,Sophia Brown,398,2,78.54,2025-05-23
+AR-86557562-46,Galaxy Buds3 Pro,Audio,Sweden,Arjun Mehta,772.12,4,174.09,2025-10-13
+AR-11699523-60,iPhone 15 Pro Max,Devices,India,Lucas Young,1399,1,211.45,2025-10-23
+AR-25110838-68,Apple Vision Pro,Devices,Spain,Sophia Brown,3499,1,926.8,2025-07-21
+AR-63273512-48,AirPods Pro,Audio,Sweden,Ethan Walker,1179.35,5,229.3,2025-07-06
+AR-76936183-73,iPhone 15 Pro Max,Devices,Spain,Arjun Mehta,3021.84,2,647.47,2025-06-11
+AR-74066321-92,Apple Watch Series 10,Wearables,Turkey,Sophia Brown,441.87,1,96.29,2025-04-04
+AR-40757954-70,Galaxy Buds3 Pro,Audio,India,Arjun Mehta,644.76,3,106.37,2025-08-11
+AR-44133429-13,Apple Watch Series 10,Wearables,United Kingdom,Noah Martin,883.74,2,178.49,2025-09-12
+AR-10192186-31,AirPods Pro,Audio,United States,Liam Smith,247.32,1,31.0,2025-07-14
+AR-85487222-25,Apple Vision Pro,Devices,Turkey,Lily Thompson,10497,3,2795.07,2025-10-16
+AR-29285124-21,MacBook Air M3,Computers,United Kingdom,Lucas Young,5196,4,1224.42,2025-09-23
+AR-78093013-41,Apple Watch Series 10,Wearables,Spain,Noah Martin,789.36,2,110.04,2025-04-22
+AR-31642262-14,Galaxy Buds3 Pro,Audio,Sweden,Amelia Davis,409.94,2,82.56,2025-10-15
+AR-73786397-69,Galaxy Buds3 Pro,Audio,United States,Ethan Walker,409.94,2,74.44,2025-08-31
+AR-98918668-52,iPhone 15 Pro Max,Devices,India,Caleb Turner,6435.4,5,1376.86,2025-09-12
+AR-43866648-24,Dell XPS 13,Computers,United Kingdom,Mia Wilson,1294.92,1,360.26,2025-06-23
+AR-65808103-76,Apple Vision Pro,Devices,Spain,Ethan Walker,3499,1,813.78,2025-05-05
+AR-79543699-52,Apple Vision Pro,Devices,United States,Caleb Turner,7557.84,2,1164.66,2025-05-06
+AR-10218319-22,MacBook Air M3,Computers,United States,Sophia Brown,5040.12,4,837.37,2025-10-08
+AR-59511736-65,AirPods Pro,Audio,India,Isabella Garcia,1053.4,5,183.94,2025-08-08
+AR-46831029-25,Oura Ring 4,Wearables,India,Caleb Turner,821.94,2,127.99,2025-10-11
+AR-66897321-60,Galaxy Buds3 Pro,Audio,Spain,Liam Smith,579.09,3,105.22,2025-08-22
+AR-97514126-11,Apple Vision Pro,Devices,United Kingdom,Amelia Davis,3603.97,1,992.44,2025-05-02
+AR-36797406-61,Apple Vision Pro,Devices,India,Ethan Walker,14415.88,4,2250.45,2025-06-03
+AR-58902357-79,MacBook Air M3,Computers,Germany,Mia Wilson,1260.03,1,242.6,2025-08-11
+AR-53881749-10,Apple Vision Pro,Devices,Spain,Liam Smith,18894.6,5,5227.37,2025-06-30
+AR-93778679-73,MacBook Air M3,Computers,Sweden,Mia Wilson,6300.15,5,1048.11,2025-05-16
+AR-11088767-74,Apple Watch Series 10,Wearables,United Kingdom,Lily Thompson,2145,5,389.25,2025-06-27
+AR-28389052-39,Dell XPS 13,Computers,United Kingdom,Liam Smith,3884.76,3,1090.33,2025-06-01
+AR-63872008-85,Meta Quest 3,Devices,Germany,Ethan Walker,968.06,2,161.98,2025-10-07
+AR-24451086-52,Galaxy Buds3 Pro,Audio,Sweden,Lily Thompson,214.92,1,45.02,2025-06-12
+AR-64333104-53,Dell XPS 13,Computers,Germany,Amelia Davis,2326.06,2,648.5,2025-08-17
+AR-23308372-34,MacBook Air M3,Computers,Sweden,Isabella Garcia,4208.76,3,711.52,2025-06-01
+AR-70368217-49,Oura Ring 4,Wearables,United Kingdom,Lucas Young,798,2,186.13,2025-08-08
+AR-66822030-44,Apple Vision Pro,Devices,United States,Isabella Garcia,17495,5,3066.31,2025-09-30
+AR-51965495-21,Oura Ring 4,Wearables,Spain,Mia Wilson,399,1,74.23,2025-09-24
+AR-89373877-40,Dell XPS 13,Computers,United Kingdom,Arjun Mehta,3489.09,3,487.88,2025-04-19
+AR-46175750-57,AirPods Pro,Audio,United Kingdom,Caleb Turner,687,3,179.3,2025-06-26
+AR-23124299-47,AirPods Pro,Audio,Germany,Arjun Mehta,666.39,3,159.94,2025-09-19
+AR-87345105-36,AirPods Pro,Audio,Spain,Mia Wilson,471.74,2,86.68,2025-05-31
+AR-60565353-67,Logitech MX Keys,Accessories,Germany,Ethan Walker,501.4,5,116.4,2025-06-22
+AR-68784194-27,MacBook Air M3,Computers,Turkey,Lucas Young,5196,4,679.57,2025-08-05
+AR-36589384-24,Galaxy Buds3 Pro,Audio,India,Arjun Mehta,915.4,5,135.99,2025-08-23
+AR-82162176-14,AirPods Pro,Audio,Spain,Arjun Mehta,842.72,4,115.92,2025-06-23
+AR-72358509-45,Meta Quest 3,Devices,Turkey,Lily Thompson,1077.84,2,210.27,2025-07-12
+AR-25443706-24,iPhone 15 Pro Max,Devices,Turkey,Emma Clark,2881.94,2,670.56,2025-06-04
+AR-13322855-31,Meta Quest 3,Devices,Turkey,Sophia Brown,2295.4,5,474.5,2025-07-18
+AR-54708923-79,MacBook Air M3,Computers,Spain,Isabella Garcia,5040.12,4,1028.3,2025-04-09
+AR-66178461-52,Apple Vision Pro,Devices,India,Lily Thompson,7557.84,2,953.55,2025-10-18
+AR-22854255-24,Dell XPS 13,Computers,Germany,Emma Clark,1294.92,1,361.18,2025-07-31
+AR-47625548-25,Galaxy Buds3 Pro,Audio,United States,Liam Smith,183.08,1,44.99,2025-10-19
+AR-32488186-94,MacBook Air M3,Computers,Germany,Arjun Mehta,2390.16,2,381.97,2025-08-15
+AR-70273454-39,Apple Vision Pro,Devices,Germany,Lucas Young,10182.09,3,2887.06,2025-06-07
+AR-76188973-25,Dell XPS 13,Computers,United Kingdom,Noah Martin,1103.08,1,224.0,2025-08-09
+AR-71740627-83,Apple Watch Series 10,Wearables,United States,Ethan Walker,1389.96,3,259.03,2025-06-13
+AR-45841730-51,Apple Vision Pro,Devices,India,Lily Thompson,3499,1,433.62,2025-06-07
+AR-75005266-71,MacBook Air M3,Computers,Sweden,Sophia Brown,6495,5,1176.33,2025-09-21
+AR-15509015-86,AirPods Pro,Audio,India,Lily Thompson,842.72,4,165.94,2025-10-15
+AR-37283914-29,Dell XPS 13,Computers,United States,Arjun Mehta,2469.94,2,310.29,2025-10-12
+AR-23868806-14,iPhone 15 Pro Max,Devices,Sweden,Noah Martin,3021.84,2,498.26,2025-04-16
+AR-15929234-43,Galaxy Buds3 Pro,Audio,United Kingdom,Lucas Young,398,2,54.84,2025-06-20
